@@ -9,7 +9,7 @@ This repository tracks my **daily SQL practice** using HackerRank problems.
 Consistently solving SQL problems helps to:
 
 ## 🎯 Goals
-- Strengthen your **query writing skills**  
+- Strengthen my **query writing skills**  
 - Understand **database concepts** better  
 - Improve **problem-solving and logical thinking**  
 - Build a **portfolio** to showcase progress and dedication  
