@@ -1,0 +1,6 @@
+// -- Day 02: Select All
+// -- Problem: Query all columns (attributes) for every row in the CITY table.
+// -- Source: HackerRank
+// -- Date: 2025-10-11
+
+SELECT * FROM CITY ;
