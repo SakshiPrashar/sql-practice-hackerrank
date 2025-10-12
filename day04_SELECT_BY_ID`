@@ -1,0 +1,7 @@
+// Day 02: Select By ID
+// Source: HackerRank
+// Date: 2025-10-12 AND 2025-10-13
+
+//Problems solved: Query all columns for a city in CITY with the ID 1661.
+
+SELECT * FROM CITY WHERE ID=1661;
