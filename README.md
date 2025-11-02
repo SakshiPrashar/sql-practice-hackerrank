@@ -1,4 +1,4 @@
-# 🐘 Daily SQL Challenge – HackerRank
+# 🐘 Practice SQL Challenge – HackerRank
 
 > Solving one SQL problem every day from HackerRank to improve skills, consistency, and problem-solving ability.
 
