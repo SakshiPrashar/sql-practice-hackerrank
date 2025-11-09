@@ -1,0 +1,10 @@
+// Day 12:  AGGREGATION
+// Source: HackerRank
+
+
+//Problems solved 1 : Query the sum of the populations for all Japanese cities in CITY. The COUNTRYCODE for Japan is JPN.
+SELECT SUM(POPULATION) FROM CITY WHERE COUNTRYCODE="JPN";
+
+// Problem solved 2: Query the difference between the maximum and minimum populations in CITY.
+SELECT MAX(POPULATION) - MIN(POPULATION) FROM CITY;
+
